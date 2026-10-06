@@ -1,2 +1,3 @@
-# bingbong
-Landing published by Deploy Service
+# BingBong
+
+Published by Deploy Service.
